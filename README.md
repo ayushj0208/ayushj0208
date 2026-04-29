@@ -1,14 +1,5 @@
 # 💫 About Me:
-Hey there! 👋 I'm Ayush Jaiswal, a Full Stack Developer and MS Computer Science 
-student at Southern Methodist University, Dallas (Class of 2026). I love building 
-things that actually work — whether that's a React/Node.js web app, a Swift iOS 
-application, or a Python-based ML pipeline. I've shipped production apps, improved 
-model accuracy by 12% using CNN deep learning, boosted web performance by 15% at 
-a healthcare startup, and published ML research in an international journal. 
-Currently diving deep into Generative AI, LLMs, and AI Agents — recently earned 
-my Google Cloud Generative AI Leader certificate. When I'm not coding, I'm 
-probably optimizing something that didn't need optimizing. Open to full-time 
-SWE roles in the US starting 2026!🚀 <br><br>
+Hey there! 👋 I'm Ayush Jaiswal, a Full Stack Developer and MS Computer Science student at Southern Methodist University, Dallas (Class of 2026). I love building things that actually work - whether that's a React/Node.js web app, a Swift iOS application, or a Python-based ML pipeline. I've shipped production apps, improved model accuracy by 12% using CNN deep learning, boosted web performance by 15% at a healthcare startup, and published ML research in an international journal. Currently diving deep into Generative AI, LLMs, and AI Agents - recently earned my Google Cloud Generative AI Leader certificate. When I'm not coding, I'm probably optimizing something that didn't need optimizing. Open to full-time SWE roles in the US starting 2026!🚀 <br><br>
 
 
 ## 🌐 Socials:
